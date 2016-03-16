@@ -1,2 +1,2 @@
 # DSA
-data structures and algorithmn coure repository
+data structures and algorithmn course repository
